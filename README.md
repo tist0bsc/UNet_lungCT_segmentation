@@ -9,10 +9,12 @@
 #### train
 1.在lung-CT文件夹里面下载处理好的图片  
 2.python3 main.py  
+在训练时会创建一个log日志保存在log文件里面，记录训练集和测试集的IOU和Acc
 #### perdict
 1.如果自己没有训练模型，在saved文件夹里面下载训练好的模型  
 2.python3 predict.py
-
+#### 调参
+基本参数如epoch，batch_size，lr，decay在train_config.json里面调参
 ### 替换数据
 #### 二分类
 1.修改train_config.json和predict_config.json里面的路径变为自己的数据路径  
