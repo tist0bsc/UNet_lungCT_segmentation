@@ -7,6 +7,10 @@ from PIL import Image
 from torchvision import transforms
 from models import unet
 
+Img_channel = 1
+Height = 512
+Width = 512
+
 def predict(config):
     device = torch.device('cuda:0')
     model = unet.UNet(num_classes=config['num_classes'])
@@ -40,13 +44,13 @@ def predict(config):
         for line in f.readlines():
             image_name, _ = line.strip().split('\t')
             im = np.asarray(Image.open(image_name))
-            im = im.reshape((512, 512, 1))
+            im = im.reshape((Height, Width, Img_channel))
             im = transform(im).float().cuda()
-            im = im.reshape((1,1,512,512))
+            im = im.reshape((1,Img_channel,Height,Width))
 
             output = model(im)
             _, pred = output.max(1)
-            pred = pred.view(512, 512)
+            pred = pred.view(Height, Width)
             mask_im = pred.cpu().numpy().astype(np.uint8)
 
             file_name = image_name.split('/')[-1]
@@ -69,7 +73,7 @@ def translabeltovisual(save_label, path):
             else:
                 visual_img.append(0) 
     visual_img = np.array(visual_img)
-    visual_img = visual_img.reshape((512, 512))
+    visual_img = visual_img.reshape((Height, Width))
     cv2.imwrite(path, visual_img)
 
 
