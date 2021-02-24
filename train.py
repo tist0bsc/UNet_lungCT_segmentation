@@ -136,10 +136,9 @@ def train(config):
                             time.time() - tic, time.time() - test_start))
             if pixelAcc > max_pixACC:
                 max_pixACC = pixelAcc
-                model_save_pth = os.path.join(config['save_model']['save_path'], 'unet.pth')
-                if os.path.exists(model_save_pth) is False:
-                    os.mkdir(model_save_pth)
-                torch.save(model.state_dict(), model_save_pth)
+                if os.path.exists(config['save_model']['save_path']) is False:
+                    os.mkdir(config['save_model']['save_path'])
+                torch.save(model.state_dict(), os.path.join(config['save_model']['save_path'], 'unet.pth'))
         logger.info('VAL ({}) | Loss: {:.3f} | Acc {:.2f} IOU {} mIoU {:.4f} |'.format(
             epoch, loss_sum / ((batch_idx + 1) * config['batch_size']),
             pixelAcc, toString(mIoU), mIoU.mean()))
