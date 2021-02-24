@@ -14,5 +14,5 @@
 ### 替换数据
 #### 二分类
 1.修改train_config.json里面的路径变为自己的数据路径  
-2.如果输入图片为三通道，修改model/unet.py的UNet class的inchannels为3，并在predict里面修改Img_channel=3  
+2.如果输入图片为三通道，修改model/unet.py的UNet class的inchannels为3，并在predict.py里面修改Img_channel=3  
 3.如图片大小不是512*512，请在predict.py里面修改Height,Width  
