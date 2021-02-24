@@ -7,11 +7,11 @@
 #### 环境
 基于pytorch1.1.0
 #### train
-1.在lung-CT文件夹里面下载处理好的图片  
+1.在lung-CT文件夹里面的download.txt下载处理好的图片  
 2.python3 main.py  
 在训练时会创建一个log日志保存在logs文件里面，记录训练集和测试集的IOU和Acc
 #### perdict
-1.如果没有进行过前面的train，在saved文件夹里面下载训练好的模型  
+1.如果没有进行过前面的train，在saved文件夹里面的download.txt下载训练好的模型  
 2.python3 predict.py
 #### 调参
 基本参数如epoch，batch_size，lr，decay在train_config.json里面调参
