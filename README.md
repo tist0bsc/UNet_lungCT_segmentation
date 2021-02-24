@@ -1,7 +1,7 @@
 # gxzy_demo
 
 ## UNet lung-CT semantic segmentation
-将UNet用于肺部影像语义分割，数据源于Kaggle:https://www.kaggle.com/kmader/finding-lungs-in-ct-data，该影像及其label均为单通道 ，大小512*512，对于label图像进行了处理将255变为了1，并分为训练集、测试集、验证集（187、53、27张）
+将UNet用于肺部影像语义分割，数据源于Kaggle:https://www.kaggle.com/kmader/finding-lungs-in-ct-data ，该影像及其label均为单通道，大小512*512，对于label图像进行了处理将255变为了1，并分为训练集、测试集、验证集（187、53、27张）
 
 ### quick start
 #### train
