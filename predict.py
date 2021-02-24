@@ -24,6 +24,8 @@ def predict(config):
     model.cuda()
     model.eval()
     #输出文件夹
+    if os.path.exists(config['pre_dir']) is False:
+        os.mkdir(config['pre_dir'])
     pre_base_path = os.path.join(config['pre_dir'], 'predict_unet')
     if os.path.exists(pre_base_path) is False:
         os.mkdir(pre_base_path)
