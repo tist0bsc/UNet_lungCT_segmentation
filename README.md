@@ -5,7 +5,8 @@
 
 ### quick start
 #### 环境
-基于pytorch1.1.0
+CUDA10.1 python3.6 pytorch1.1.0 GPU:2080Ti*1  
+常用库如pillow numpy os opencv请自行安装
 #### train
 1.在lung-CT文件夹里面的download.txt下载处理好的图片  
 2.python3 main.py  
