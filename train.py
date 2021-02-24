@@ -158,6 +158,8 @@ def initLogger(model_name):
 
     rq = time.strftime('%Y%m%d%H%M', time.localtime(time.time()))
     log_path = r'logs'
+    if os.path.exists(log_path) is False:
+        os.mkdir(log_path)
     log_name = os.path.join(log_path, model_name + '_' + rq + '.log')
     logfile = log_name
     fh = logging.FileHandler(logfile, mode='w')
