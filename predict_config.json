@@ -1,0 +1,9 @@
+{   
+    "num_classes": 2,
+    "pre_dir": "predict/",
+    "img_txt": "lung_CT/val.txt",
+    "save_model": {
+        "save": true,
+        "save_path": "saved/"
+    }
+}

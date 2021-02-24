@@ -1,0 +1,15 @@
+{   
+    "num_classes": 2,
+    "batch_size": 6,
+    "num_epoch": 200,
+    "lr": 0.00001,
+    "weight_decay": 1e-4,
+    "momentum": 0.95,
+    "train_list": "lung_CT/train.txt",
+    "test_list": "lung_CT/test.txt",
+
+    "save_model": {
+        "save": true,
+        "save_path": "saved/"
+    }
+}
