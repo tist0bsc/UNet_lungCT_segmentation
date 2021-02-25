@@ -1,0 +1,400 @@
+2021-02-24 13:16:37,107 - train.py[line:102] - INFO: TRAIN (0) | Loss: 0.109 | Acc 0.59 IOU {0: 0.5012, 1: 0.3063, }  mIoU 0.4037 
+2021-02-24 13:16:48,538 - train.py[line:144] - INFO: VAL (0) | Loss: 0.090 | Acc 0.72 IOU {0: 0.6452, 1: 0.4371, } mIoU 0.5412 |
+2021-02-24 13:17:41,802 - train.py[line:102] - INFO: TRAIN (1) | Loss: 0.085 | Acc 0.78 IOU {0: 0.7220, 1: 0.4604, }  mIoU 0.5912 
+2021-02-24 13:17:54,451 - train.py[line:144] - INFO: VAL (1) | Loss: 0.063 | Acc 0.88 IOU {0: 0.8396, 1: 0.6437, } mIoU 0.7417 |
+2021-02-24 13:18:47,482 - train.py[line:102] - INFO: TRAIN (2) | Loss: 0.067 | Acc 0.87 IOU {0: 0.8329, 1: 0.5875, }  mIoU 0.7102 
+2021-02-24 13:19:00,199 - train.py[line:144] - INFO: VAL (2) | Loss: 0.046 | Acc 0.94 IOU {0: 0.9191, 1: 0.7831, } mIoU 0.8511 |
+2021-02-24 13:19:54,691 - train.py[line:102] - INFO: TRAIN (3) | Loss: 0.058 | Acc 0.90 IOU {0: 0.8717, 1: 0.6461, }  mIoU 0.7589 
+2021-02-24 13:20:06,876 - train.py[line:144] - INFO: VAL (3) | Loss: 0.034 | Acc 0.97 IOU {0: 0.9565, 1: 0.8692, } mIoU 0.9129 |
+2021-02-24 13:21:01,981 - train.py[line:102] - INFO: TRAIN (4) | Loss: 0.052 | Acc 0.91 IOU {0: 0.8910, 1: 0.6867, }  mIoU 0.7888 
+2021-02-24 13:21:14,943 - train.py[line:144] - INFO: VAL (4) | Loss: 0.031 | Acc 0.97 IOU {0: 0.9646, 1: 0.8907, } mIoU 0.9276 |
+2021-02-24 13:22:08,002 - train.py[line:102] - INFO: TRAIN (5) | Loss: 0.047 | Acc 0.92 IOU {0: 0.9011, 1: 0.7116, }  mIoU 0.8064 
+2021-02-24 13:22:18,957 - train.py[line:144] - INFO: VAL (5) | Loss: 0.028 | Acc 0.98 IOU {0: 0.9685, 1: 0.9020, } mIoU 0.9352 |
+2021-02-24 13:23:13,619 - train.py[line:102] - INFO: TRAIN (6) | Loss: 0.043 | Acc 0.93 IOU {0: 0.9080, 1: 0.7297, }  mIoU 0.8189 
+2021-02-24 13:23:24,599 - train.py[line:144] - INFO: VAL (6) | Loss: 0.024 | Acc 0.98 IOU {0: 0.9749, 1: 0.9216, } mIoU 0.9482 |
+2021-02-24 13:24:17,798 - train.py[line:102] - INFO: TRAIN (7) | Loss: 0.040 | Acc 0.93 IOU {0: 0.9120, 1: 0.7381, }  mIoU 0.8251 
+2021-02-24 13:24:29,671 - train.py[line:144] - INFO: VAL (7) | Loss: 0.024 | Acc 0.98 IOU {0: 0.9694, 1: 0.9059, } mIoU 0.9377 |
+2021-02-24 13:25:24,315 - train.py[line:102] - INFO: TRAIN (8) | Loss: 0.040 | Acc 0.93 IOU {0: 0.9107, 1: 0.7343, }  mIoU 0.8225 
+2021-02-24 13:25:36,376 - train.py[line:144] - INFO: VAL (8) | Loss: 0.022 | Acc 0.98 IOU {0: 0.9695, 1: 0.9021, } mIoU 0.9358 |
+2021-02-24 13:26:28,008 - train.py[line:102] - INFO: TRAIN (9) | Loss: 0.038 | Acc 0.93 IOU {0: 0.9119, 1: 0.7385, }  mIoU 0.8252 
+2021-02-24 13:26:39,334 - train.py[line:144] - INFO: VAL (9) | Loss: 0.020 | Acc 0.98 IOU {0: 0.9767, 1: 0.9261, } mIoU 0.9514 |
+2021-02-24 13:27:34,781 - train.py[line:102] - INFO: TRAIN (10) | Loss: 0.043 | Acc 0.93 IOU {0: 0.9085, 1: 0.7278, }  mIoU 0.8181 
+2021-02-24 13:27:45,994 - train.py[line:144] - INFO: VAL (10) | Loss: 0.023 | Acc 0.96 IOU {0: 0.9552, 1: 0.8527, } mIoU 0.9039 |
+2021-02-24 13:28:38,780 - train.py[line:102] - INFO: TRAIN (11) | Loss: 0.038 | Acc 0.93 IOU {0: 0.9142, 1: 0.7403, }  mIoU 0.8273 
+2021-02-24 13:28:50,979 - train.py[line:144] - INFO: VAL (11) | Loss: 0.022 | Acc 0.97 IOU {0: 0.9594, 1: 0.8722, } mIoU 0.9158 |
+2021-02-24 13:29:45,081 - train.py[line:102] - INFO: TRAIN (12) | Loss: 0.036 | Acc 0.93 IOU {0: 0.9143, 1: 0.7473, }  mIoU 0.8308 
+2021-02-24 13:29:56,862 - train.py[line:144] - INFO: VAL (12) | Loss: 0.021 | Acc 0.98 IOU {0: 0.9737, 1: 0.9190, } mIoU 0.9463 |
+2021-02-24 13:30:52,680 - train.py[line:102] - INFO: TRAIN (13) | Loss: 0.035 | Acc 0.93 IOU {0: 0.9121, 1: 0.7395, }  mIoU 0.8258 
+2021-02-24 13:31:04,752 - train.py[line:144] - INFO: VAL (13) | Loss: 0.020 | Acc 0.98 IOU {0: 0.9719, 1: 0.9124, } mIoU 0.9422 |
+2021-02-24 13:31:58,303 - train.py[line:102] - INFO: TRAIN (14) | Loss: 0.034 | Acc 0.93 IOU {0: 0.9175, 1: 0.7545, }  mIoU 0.8360 
+2021-02-24 13:32:10,109 - train.py[line:144] - INFO: VAL (14) | Loss: 0.022 | Acc 0.97 IOU {0: 0.9628, 1: 0.8828, } mIoU 0.9228 |
+2021-02-24 13:33:02,981 - train.py[line:102] - INFO: TRAIN (15) | Loss: 0.032 | Acc 0.94 IOU {0: 0.9216, 1: 0.7647, }  mIoU 0.8432 
+2021-02-24 13:33:14,661 - train.py[line:144] - INFO: VAL (15) | Loss: 0.019 | Acc 0.98 IOU {0: 0.9702, 1: 0.9062, } mIoU 0.9382 |
+2021-02-24 13:34:07,782 - train.py[line:102] - INFO: TRAIN (16) | Loss: 0.033 | Acc 0.94 IOU {0: 0.9203, 1: 0.7642, }  mIoU 0.8422 
+2021-02-24 13:34:20,054 - train.py[line:144] - INFO: VAL (16) | Loss: 0.022 | Acc 0.97 IOU {0: 0.9620, 1: 0.8830, } mIoU 0.9225 |
+2021-02-24 13:35:13,718 - train.py[line:102] - INFO: TRAIN (17) | Loss: 0.034 | Acc 0.93 IOU {0: 0.9150, 1: 0.7465, }  mIoU 0.8308 
+2021-02-24 13:35:24,743 - train.py[line:144] - INFO: VAL (17) | Loss: 0.020 | Acc 0.98 IOU {0: 0.9689, 1: 0.9025, } mIoU 0.9357 |
+2021-02-24 13:36:17,990 - train.py[line:102] - INFO: TRAIN (18) | Loss: 0.032 | Acc 0.94 IOU {0: 0.9205, 1: 0.7637, }  mIoU 0.8421 
+2021-02-24 13:36:29,993 - train.py[line:144] - INFO: VAL (18) | Loss: 0.018 | Acc 0.98 IOU {0: 0.9745, 1: 0.9196, } mIoU 0.9470 |
+2021-02-24 13:37:23,503 - train.py[line:102] - INFO: TRAIN (19) | Loss: 0.035 | Acc 0.93 IOU {0: 0.9153, 1: 0.7514, }  mIoU 0.8334 
+2021-02-24 13:37:35,167 - train.py[line:144] - INFO: VAL (19) | Loss: 0.019 | Acc 0.98 IOU {0: 0.9683, 1: 0.9017, } mIoU 0.9350 |
+2021-02-24 13:38:26,388 - train.py[line:102] - INFO: TRAIN (20) | Loss: 0.030 | Acc 0.94 IOU {0: 0.9215, 1: 0.7633, }  mIoU 0.8424 
+2021-02-24 13:38:38,497 - train.py[line:144] - INFO: VAL (20) | Loss: 0.019 | Acc 0.98 IOU {0: 0.9693, 1: 0.9003, } mIoU 0.9348 |
+2021-02-24 13:39:33,002 - train.py[line:102] - INFO: TRAIN (21) | Loss: 0.030 | Acc 0.94 IOU {0: 0.9201, 1: 0.7630, }  mIoU 0.8416 
+2021-02-24 13:39:44,383 - train.py[line:144] - INFO: VAL (21) | Loss: 0.015 | Acc 0.99 IOU {0: 0.9818, 1: 0.9417, } mIoU 0.9617 |
+2021-02-24 13:40:38,104 - train.py[line:102] - INFO: TRAIN (22) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9252, 1: 0.7768, }  mIoU 0.8510 
+2021-02-24 13:40:49,194 - train.py[line:144] - INFO: VAL (22) | Loss: 0.016 | Acc 0.98 IOU {0: 0.9782, 1: 0.9313, } mIoU 0.9547 |
+2021-02-24 13:41:41,880 - train.py[line:102] - INFO: TRAIN (23) | Loss: 0.031 | Acc 0.93 IOU {0: 0.9165, 1: 0.7488, }  mIoU 0.8326 
+2021-02-24 13:41:53,797 - train.py[line:144] - INFO: VAL (23) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9792, 1: 0.9329, } mIoU 0.9560 |
+2021-02-24 13:42:47,700 - train.py[line:102] - INFO: TRAIN (24) | Loss: 0.033 | Acc 0.93 IOU {0: 0.9154, 1: 0.7494, }  mIoU 0.8324 
+2021-02-24 13:43:00,045 - train.py[line:144] - INFO: VAL (24) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9779, 1: 0.9282, } mIoU 0.9530 |
+2021-02-24 13:43:52,197 - train.py[line:102] - INFO: TRAIN (25) | Loss: 0.031 | Acc 0.93 IOU {0: 0.9166, 1: 0.7526, }  mIoU 0.8346 
+2021-02-24 13:44:03,891 - train.py[line:144] - INFO: VAL (25) | Loss: 0.015 | Acc 0.99 IOU {0: 0.9809, 1: 0.9382, } mIoU 0.9596 |
+2021-02-24 13:44:59,402 - train.py[line:102] - INFO: TRAIN (26) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9216, 1: 0.7660, }  mIoU 0.8438 
+2021-02-24 13:45:11,249 - train.py[line:144] - INFO: VAL (26) | Loss: 0.016 | Acc 0.98 IOU {0: 0.9699, 1: 0.9056, } mIoU 0.9378 |
+2021-02-24 13:46:05,002 - train.py[line:102] - INFO: TRAIN (27) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9225, 1: 0.7701, }  mIoU 0.8463 
+2021-02-24 13:46:16,476 - train.py[line:144] - INFO: VAL (27) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9796, 1: 0.9348, } mIoU 0.9572 |
+2021-02-24 13:47:11,732 - train.py[line:102] - INFO: TRAIN (28) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9216, 1: 0.7663, }  mIoU 0.8440 
+2021-02-24 13:47:23,359 - train.py[line:144] - INFO: VAL (28) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9784, 1: 0.9301, } mIoU 0.9543 |
+2021-02-24 13:48:17,680 - train.py[line:102] - INFO: TRAIN (29) | Loss: 0.030 | Acc 0.94 IOU {0: 0.9190, 1: 0.7604, }  mIoU 0.8397 
+2021-02-24 13:48:29,491 - train.py[line:144] - INFO: VAL (29) | Loss: 0.016 | Acc 0.98 IOU {0: 0.9738, 1: 0.9147, } mIoU 0.9443 |
+2021-02-24 13:49:23,002 - train.py[line:102] - INFO: TRAIN (30) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9208, 1: 0.7631, }  mIoU 0.8420 
+2021-02-24 13:49:35,317 - train.py[line:144] - INFO: VAL (30) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9756, 1: 0.9210, } mIoU 0.9483 |
+2021-02-24 13:50:28,981 - train.py[line:102] - INFO: TRAIN (31) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9300, 1: 0.7902, }  mIoU 0.8601 
+2021-02-24 13:50:41,291 - train.py[line:144] - INFO: VAL (31) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9803, 1: 0.9369, } mIoU 0.9586 |
+2021-02-24 13:51:35,826 - train.py[line:102] - INFO: TRAIN (32) | Loss: 0.028 | Acc 0.94 IOU {0: 0.9220, 1: 0.7664, }  mIoU 0.8442 
+2021-02-24 13:51:47,752 - train.py[line:144] - INFO: VAL (32) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9769, 1: 0.9257, } mIoU 0.9513 |
+2021-02-24 13:52:41,181 - train.py[line:102] - INFO: TRAIN (33) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9204, 1: 0.7624, }  mIoU 0.8414 
+2021-02-24 13:52:52,568 - train.py[line:144] - INFO: VAL (33) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9776, 1: 0.9273, } mIoU 0.9524 |
+2021-02-24 13:53:47,509 - train.py[line:102] - INFO: TRAIN (34) | Loss: 0.029 | Acc 0.94 IOU {0: 0.9236, 1: 0.7726, }  mIoU 0.8481 
+2021-02-24 13:53:58,659 - train.py[line:144] - INFO: VAL (34) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9763, 1: 0.9236, } mIoU 0.9499 |
+2021-02-24 13:54:52,302 - train.py[line:102] - INFO: TRAIN (35) | Loss: 0.028 | Acc 0.94 IOU {0: 0.9230, 1: 0.7697, }  mIoU 0.8463 
+2021-02-24 13:55:04,092 - train.py[line:144] - INFO: VAL (35) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9794, 1: 0.9346, } mIoU 0.9570 |
+2021-02-24 13:55:58,681 - train.py[line:102] - INFO: TRAIN (36) | Loss: 0.028 | Acc 0.94 IOU {0: 0.9220, 1: 0.7675, }  mIoU 0.8447 
+2021-02-24 13:56:10,987 - train.py[line:144] - INFO: VAL (36) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9749, 1: 0.9220, } mIoU 0.9485 |
+2021-02-24 13:57:04,025 - train.py[line:102] - INFO: TRAIN (37) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9290, 1: 0.7861, }  mIoU 0.8576 
+2021-02-24 13:57:17,658 - train.py[line:144] - INFO: VAL (37) | Loss: 0.016 | Acc 0.98 IOU {0: 0.9731, 1: 0.9149, } mIoU 0.9440 |
+2021-02-24 13:58:10,610 - train.py[line:102] - INFO: TRAIN (38) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9264, 1: 0.7790, }  mIoU 0.8527 
+2021-02-24 13:58:22,806 - train.py[line:144] - INFO: VAL (38) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9715, 1: 0.9071, } mIoU 0.9393 |
+2021-02-24 13:59:17,680 - train.py[line:102] - INFO: TRAIN (39) | Loss: 0.028 | Acc 0.94 IOU {0: 0.9232, 1: 0.7725, }  mIoU 0.8479 
+2021-02-24 13:59:29,428 - train.py[line:144] - INFO: VAL (39) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9728, 1: 0.9123, } mIoU 0.9425 |
+2021-02-24 14:00:22,350 - train.py[line:102] - INFO: TRAIN (40) | Loss: 0.031 | Acc 0.94 IOU {0: 0.9239, 1: 0.7713, }  mIoU 0.8476 
+2021-02-24 14:00:33,491 - train.py[line:144] - INFO: VAL (40) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9775, 1: 0.9280, } mIoU 0.9527 |
+2021-02-24 14:01:27,880 - train.py[line:102] - INFO: TRAIN (41) | Loss: 0.025 | Acc 0.94 IOU {0: 0.9282, 1: 0.7849, }  mIoU 0.8565 
+2021-02-24 14:01:38,136 - train.py[line:144] - INFO: VAL (41) | Loss: 0.012 | Acc 0.99 IOU {0: 0.9836, 1: 0.9474, } mIoU 0.9655 |
+2021-02-24 14:02:33,683 - train.py[line:102] - INFO: TRAIN (42) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9284, 1: 0.7858, }  mIoU 0.8571 
+2021-02-24 14:02:45,896 - train.py[line:144] - INFO: VAL (42) | Loss: 0.012 | Acc 0.99 IOU {0: 0.9826, 1: 0.9448, } mIoU 0.9637 |
+2021-02-24 14:03:39,882 - train.py[line:102] - INFO: TRAIN (43) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9257, 1: 0.7769, }  mIoU 0.8513 
+2021-02-24 14:03:52,159 - train.py[line:144] - INFO: VAL (43) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9764, 1: 0.9239, } mIoU 0.9502 |
+2021-02-24 14:04:47,281 - train.py[line:102] - INFO: TRAIN (44) | Loss: 0.025 | Acc 0.95 IOU {0: 0.9328, 1: 0.7972, }  mIoU 0.8650 
+2021-02-24 14:04:59,543 - train.py[line:144] - INFO: VAL (44) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9780, 1: 0.9288, } mIoU 0.9534 |
+2021-02-24 14:05:51,880 - train.py[line:102] - INFO: TRAIN (45) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9351, 1: 0.8037, }  mIoU 0.8694 
+2021-02-24 14:06:04,141 - train.py[line:144] - INFO: VAL (45) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9762, 1: 0.9238, } mIoU 0.9500 |
+2021-02-24 14:06:57,494 - train.py[line:102] - INFO: TRAIN (46) | Loss: 0.027 | Acc 0.94 IOU {0: 0.9261, 1: 0.7778, }  mIoU 0.8519 
+2021-02-24 14:07:10,342 - train.py[line:144] - INFO: VAL (46) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9730, 1: 0.9130, } mIoU 0.9430 |
+2021-02-24 14:08:04,213 - train.py[line:102] - INFO: TRAIN (47) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9334, 1: 0.7987, }  mIoU 0.8661 
+2021-02-24 14:08:16,539 - train.py[line:144] - INFO: VAL (47) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9745, 1: 0.9191, } mIoU 0.9468 |
+2021-02-24 14:09:10,181 - train.py[line:102] - INFO: TRAIN (48) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9281, 1: 0.7858, }  mIoU 0.8569 
+2021-02-24 14:09:22,662 - train.py[line:144] - INFO: VAL (48) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9782, 1: 0.9303, } mIoU 0.9543 |
+2021-02-24 14:10:16,310 - train.py[line:102] - INFO: TRAIN (49) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9255, 1: 0.7756, }  mIoU 0.8506 
+2021-02-24 14:10:27,446 - train.py[line:144] - INFO: VAL (49) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9758, 1: 0.9243, } mIoU 0.9500 |
+2021-02-24 14:11:19,583 - train.py[line:102] - INFO: TRAIN (50) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9310, 1: 0.7938, }  mIoU 0.8624 
+2021-02-24 14:11:31,298 - train.py[line:144] - INFO: VAL (50) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9743, 1: 0.9174, } mIoU 0.9459 |
+2021-02-24 14:12:25,280 - train.py[line:102] - INFO: TRAIN (51) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9304, 1: 0.7925, }  mIoU 0.8614 
+2021-02-24 14:12:37,436 - train.py[line:144] - INFO: VAL (51) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9758, 1: 0.9219, } mIoU 0.9489 |
+2021-02-24 14:13:32,381 - train.py[line:102] - INFO: TRAIN (52) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9320, 1: 0.7947, }  mIoU 0.8634 
+2021-02-24 14:13:45,454 - train.py[line:144] - INFO: VAL (52) | Loss: 0.010 | Acc 0.99 IOU {0: 0.9836, 1: 0.9473, } mIoU 0.9654 |
+2021-02-24 14:14:39,781 - train.py[line:102] - INFO: TRAIN (53) | Loss: 0.025 | Acc 0.94 IOU {0: 0.9302, 1: 0.7898, }  mIoU 0.8600 
+2021-02-24 14:14:51,680 - train.py[line:144] - INFO: VAL (53) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9736, 1: 0.9158, } mIoU 0.9447 |
+2021-02-24 14:15:45,782 - train.py[line:102] - INFO: TRAIN (54) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9325, 1: 0.7960, }  mIoU 0.8642 
+2021-02-24 14:15:57,193 - train.py[line:144] - INFO: VAL (54) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9745, 1: 0.9184, } mIoU 0.9465 |
+2021-02-24 14:16:52,521 - train.py[line:102] - INFO: TRAIN (55) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9328, 1: 0.7975, }  mIoU 0.8652 
+2021-02-24 14:17:05,193 - train.py[line:144] - INFO: VAL (55) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9762, 1: 0.9249, } mIoU 0.9506 |
+2021-02-24 14:17:57,180 - train.py[line:102] - INFO: TRAIN (56) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9348, 1: 0.8047, }  mIoU 0.8697 
+2021-02-24 14:18:09,069 - train.py[line:144] - INFO: VAL (56) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9709, 1: 0.9092, } mIoU 0.9401 |
+2021-02-24 14:19:03,481 - train.py[line:102] - INFO: TRAIN (57) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9255, 1: 0.7774, }  mIoU 0.8514 
+2021-02-24 14:19:14,403 - train.py[line:144] - INFO: VAL (57) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9686, 1: 0.8984, } mIoU 0.9335 |
+2021-02-24 14:20:08,303 - train.py[line:102] - INFO: TRAIN (58) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9349, 1: 0.8043, }  mIoU 0.8696 
+2021-02-24 14:20:21,037 - train.py[line:144] - INFO: VAL (58) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9780, 1: 0.9287, } mIoU 0.9533 |
+2021-02-24 14:21:16,502 - train.py[line:102] - INFO: TRAIN (59) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9323, 1: 0.7970, }  mIoU 0.8646 
+2021-02-24 14:21:28,477 - train.py[line:144] - INFO: VAL (59) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9703, 1: 0.9050, } mIoU 0.9376 |
+2021-02-24 14:22:23,481 - train.py[line:102] - INFO: TRAIN (60) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9320, 1: 0.7949, }  mIoU 0.8634 
+2021-02-24 14:22:35,052 - train.py[line:144] - INFO: VAL (60) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9788, 1: 0.9315, } mIoU 0.9551 |
+2021-02-24 14:23:28,980 - train.py[line:102] - INFO: TRAIN (61) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9335, 1: 0.8013, }  mIoU 0.8674 
+2021-02-24 14:23:40,773 - train.py[line:144] - INFO: VAL (61) | Loss: 0.015 | Acc 0.98 IOU {0: 0.9714, 1: 0.9084, } mIoU 0.9399 |
+2021-02-24 14:24:35,194 - train.py[line:102] - INFO: TRAIN (62) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9353, 1: 0.8048, }  mIoU 0.8700 
+2021-02-24 14:24:46,996 - train.py[line:144] - INFO: VAL (62) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9768, 1: 0.9273, } mIoU 0.9520 |
+2021-02-24 14:25:40,281 - train.py[line:102] - INFO: TRAIN (63) | Loss: 0.025 | Acc 0.94 IOU {0: 0.9303, 1: 0.7904, }  mIoU 0.8603 
+2021-02-24 14:25:51,794 - train.py[line:144] - INFO: VAL (63) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9702, 1: 0.9048, } mIoU 0.9375 |
+2021-02-24 14:26:44,081 - train.py[line:102] - INFO: TRAIN (64) | Loss: 0.024 | Acc 0.94 IOU {0: 0.9283, 1: 0.7859, }  mIoU 0.8571 
+2021-02-24 14:26:56,410 - train.py[line:144] - INFO: VAL (64) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9805, 1: 0.9375, } mIoU 0.9590 |
+2021-02-24 14:27:50,782 - train.py[line:102] - INFO: TRAIN (65) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9307, 1: 0.7925, }  mIoU 0.8616 
+2021-02-24 14:28:01,811 - train.py[line:144] - INFO: VAL (65) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9725, 1: 0.9114, } mIoU 0.9419 |
+2021-02-24 14:28:56,001 - train.py[line:102] - INFO: TRAIN (66) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9336, 1: 0.8016, }  mIoU 0.8676 
+2021-02-24 14:29:08,086 - train.py[line:144] - INFO: VAL (66) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9720, 1: 0.9115, } mIoU 0.9418 |
+2021-02-24 14:30:03,203 - train.py[line:102] - INFO: TRAIN (67) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9325, 1: 0.7967, }  mIoU 0.8646 
+2021-02-24 14:30:14,694 - train.py[line:144] - INFO: VAL (67) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9750, 1: 0.9209, } mIoU 0.9479 |
+2021-02-24 14:31:09,603 - train.py[line:102] - INFO: TRAIN (68) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9357, 1: 0.8055, }  mIoU 0.8706 
+2021-02-24 14:31:19,721 - train.py[line:144] - INFO: VAL (68) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9757, 1: 0.9219, } mIoU 0.9488 |
+2021-02-24 14:32:12,607 - train.py[line:102] - INFO: TRAIN (69) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9317, 1: 0.7952, }  mIoU 0.8634 
+2021-02-24 14:32:25,235 - train.py[line:144] - INFO: VAL (69) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9775, 1: 0.9277, } mIoU 0.9526 |
+2021-02-24 14:33:20,602 - train.py[line:102] - INFO: TRAIN (70) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9318, 1: 0.7940, }  mIoU 0.8629 
+2021-02-24 14:33:32,168 - train.py[line:144] - INFO: VAL (70) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9786, 1: 0.9332, } mIoU 0.9559 |
+2021-02-24 14:34:23,881 - train.py[line:102] - INFO: TRAIN (71) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9337, 1: 0.8013, }  mIoU 0.8675 
+2021-02-24 14:34:36,503 - train.py[line:144] - INFO: VAL (71) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9755, 1: 0.9219, } mIoU 0.9487 |
+2021-02-24 14:35:28,881 - train.py[line:102] - INFO: TRAIN (72) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9365, 1: 0.8085, }  mIoU 0.8725 
+2021-02-24 14:35:40,865 - train.py[line:144] - INFO: VAL (72) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9771, 1: 0.9272, } mIoU 0.9521 |
+2021-02-24 14:36:34,881 - train.py[line:102] - INFO: TRAIN (73) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9355, 1: 0.8052, }  mIoU 0.8703 
+2021-02-24 14:36:46,655 - train.py[line:144] - INFO: VAL (73) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9735, 1: 0.9141, } mIoU 0.9438 |
+2021-02-24 14:37:41,002 - train.py[line:102] - INFO: TRAIN (74) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9375, 1: 0.8102, }  mIoU 0.8739 
+2021-02-24 14:37:52,340 - train.py[line:144] - INFO: VAL (74) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9712, 1: 0.9054, } mIoU 0.9383 |
+2021-02-24 14:38:45,581 - train.py[line:102] - INFO: TRAIN (75) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9360, 1: 0.8064, }  mIoU 0.8712 
+2021-02-24 14:38:57,749 - train.py[line:144] - INFO: VAL (75) | Loss: 0.014 | Acc 0.98 IOU {0: 0.9683, 1: 0.8975, } mIoU 0.9329 |
+2021-02-24 14:39:48,381 - train.py[line:102] - INFO: TRAIN (76) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9318, 1: 0.7946, }  mIoU 0.8632 
+2021-02-24 14:40:00,979 - train.py[line:144] - INFO: VAL (76) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9741, 1: 0.9166, } mIoU 0.9454 |
+2021-02-24 14:40:55,505 - train.py[line:102] - INFO: TRAIN (77) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9330, 1: 0.7993, }  mIoU 0.8662 
+2021-02-24 14:41:07,590 - train.py[line:144] - INFO: VAL (77) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9767, 1: 0.9250, } mIoU 0.9509 |
+2021-02-24 14:42:01,481 - train.py[line:102] - INFO: TRAIN (78) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9385, 1: 0.8140, }  mIoU 0.8763 
+2021-02-24 14:42:14,283 - train.py[line:144] - INFO: VAL (78) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9762, 1: 0.9229, } mIoU 0.9495 |
+2021-02-24 14:43:07,181 - train.py[line:102] - INFO: TRAIN (79) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9374, 1: 0.8098, }  mIoU 0.8736 
+2021-02-24 14:43:19,611 - train.py[line:144] - INFO: VAL (79) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9755, 1: 0.9215, } mIoU 0.9485 |
+2021-02-24 14:44:13,103 - train.py[line:102] - INFO: TRAIN (80) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9405, 1: 0.8204, }  mIoU 0.8805 
+2021-02-24 14:44:24,366 - train.py[line:144] - INFO: VAL (80) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9754, 1: 0.9222, } mIoU 0.9488 |
+2021-02-24 14:45:18,897 - train.py[line:102] - INFO: TRAIN (81) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9373, 1: 0.8106, }  mIoU 0.8740 
+2021-02-24 14:45:30,504 - train.py[line:144] - INFO: VAL (81) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9732, 1: 0.9144, } mIoU 0.9438 |
+2021-02-24 14:46:25,781 - train.py[line:102] - INFO: TRAIN (82) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9391, 1: 0.8152, }  mIoU 0.8771 
+2021-02-24 14:46:37,361 - train.py[line:144] - INFO: VAL (82) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9735, 1: 0.9159, } mIoU 0.9447 |
+2021-02-24 14:47:32,702 - train.py[line:102] - INFO: TRAIN (83) | Loss: 0.025 | Acc 0.95 IOU {0: 0.9358, 1: 0.8062, }  mIoU 0.8710 
+2021-02-24 14:47:44,873 - train.py[line:144] - INFO: VAL (83) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9640, 1: 0.8827, } mIoU 0.9233 |
+2021-02-24 14:48:39,383 - train.py[line:102] - INFO: TRAIN (84) | Loss: 0.024 | Acc 0.94 IOU {0: 0.9288, 1: 0.7857, }  mIoU 0.8573 
+2021-02-24 14:48:50,892 - train.py[line:144] - INFO: VAL (84) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9795, 1: 0.9353, } mIoU 0.9574 |
+2021-02-24 14:49:44,298 - train.py[line:102] - INFO: TRAIN (85) | Loss: 0.024 | Acc 0.95 IOU {0: 0.9325, 1: 0.7990, }  mIoU 0.8658 
+2021-02-24 14:49:56,009 - train.py[line:144] - INFO: VAL (85) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9784, 1: 0.9319, } mIoU 0.9551 |
+2021-02-24 14:50:50,208 - train.py[line:102] - INFO: TRAIN (86) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9314, 1: 0.7951, }  mIoU 0.8633 
+2021-02-24 14:51:01,195 - train.py[line:144] - INFO: VAL (86) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9783, 1: 0.9316, } mIoU 0.9550 |
+2021-02-24 14:51:54,781 - train.py[line:102] - INFO: TRAIN (87) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9389, 1: 0.8141, }  mIoU 0.8765 
+2021-02-24 14:52:06,320 - train.py[line:144] - INFO: VAL (87) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9715, 1: 0.9067, } mIoU 0.9391 |
+2021-02-24 14:52:59,202 - train.py[line:102] - INFO: TRAIN (88) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9356, 1: 0.8064, }  mIoU 0.8710 
+2021-02-24 14:53:11,832 - train.py[line:144] - INFO: VAL (88) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9729, 1: 0.9129, } mIoU 0.9429 |
+2021-02-24 14:54:04,481 - train.py[line:102] - INFO: TRAIN (89) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9393, 1: 0.8159, }  mIoU 0.8776 
+2021-02-24 14:54:16,149 - train.py[line:144] - INFO: VAL (89) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9707, 1: 0.9044, } mIoU 0.9375 |
+2021-02-24 14:55:09,782 - train.py[line:102] - INFO: TRAIN (90) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9372, 1: 0.8104, }  mIoU 0.8738 
+2021-02-24 14:55:21,666 - train.py[line:144] - INFO: VAL (90) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9730, 1: 0.9137, } mIoU 0.9433 |
+2021-02-24 14:56:15,882 - train.py[line:102] - INFO: TRAIN (91) | Loss: 0.026 | Acc 0.94 IOU {0: 0.9287, 1: 0.7832, }  mIoU 0.8560 
+2021-02-24 14:56:28,351 - train.py[line:144] - INFO: VAL (91) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9774, 1: 0.9282, } mIoU 0.9528 |
+2021-02-24 14:57:21,003 - train.py[line:102] - INFO: TRAIN (92) | Loss: 0.023 | Acc 0.95 IOU {0: 0.9330, 1: 0.8032, }  mIoU 0.8681 
+2021-02-24 14:57:34,293 - train.py[line:144] - INFO: VAL (92) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9677, 1: 0.8929, } mIoU 0.9303 |
+2021-02-24 14:58:28,203 - train.py[line:102] - INFO: TRAIN (93) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9353, 1: 0.8037, }  mIoU 0.8695 
+2021-02-24 14:58:39,858 - train.py[line:144] - INFO: VAL (93) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9742, 1: 0.9160, } mIoU 0.9451 |
+2021-02-24 14:59:34,702 - train.py[line:102] - INFO: TRAIN (94) | Loss: 0.022 | Acc 0.95 IOU {0: 0.9349, 1: 0.8046, }  mIoU 0.8698 
+2021-02-24 14:59:46,859 - train.py[line:144] - INFO: VAL (94) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9773, 1: 0.9276, } mIoU 0.9525 |
+2021-02-24 15:00:41,622 - train.py[line:102] - INFO: TRAIN (95) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9372, 1: 0.8114, }  mIoU 0.8743 
+2021-02-24 15:00:53,756 - train.py[line:144] - INFO: VAL (95) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9749, 1: 0.9211, } mIoU 0.9480 |
+2021-02-24 15:01:49,381 - train.py[line:102] - INFO: TRAIN (96) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9396, 1: 0.8168, }  mIoU 0.8782 
+2021-02-24 15:02:02,107 - train.py[line:144] - INFO: VAL (96) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9775, 1: 0.9281, } mIoU 0.9528 |
+2021-02-24 15:02:55,282 - train.py[line:102] - INFO: TRAIN (97) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9425, 1: 0.8251, }  mIoU 0.8838 
+2021-02-24 15:03:06,870 - train.py[line:144] - INFO: VAL (97) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9692, 1: 0.9025, } mIoU 0.9359 |
+2021-02-24 15:04:00,302 - train.py[line:102] - INFO: TRAIN (98) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9406, 1: 0.8182, }  mIoU 0.8794 
+2021-02-24 15:04:12,397 - train.py[line:144] - INFO: VAL (98) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9776, 1: 0.9300, } mIoU 0.9538 |
+2021-02-24 15:05:09,201 - train.py[line:102] - INFO: TRAIN (99) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9378, 1: 0.8126, }  mIoU 0.8752 
+2021-02-24 15:05:20,763 - train.py[line:144] - INFO: VAL (99) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9727, 1: 0.9115, } mIoU 0.9421 |
+2021-02-24 15:06:16,381 - train.py[line:102] - INFO: TRAIN (100) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9403, 1: 0.8199, }  mIoU 0.8801 
+2021-02-24 15:06:28,272 - train.py[line:144] - INFO: VAL (100) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9758, 1: 0.9239, } mIoU 0.9499 |
+2021-02-24 15:07:22,980 - train.py[line:102] - INFO: TRAIN (101) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9412, 1: 0.8211, }  mIoU 0.8811 
+2021-02-24 15:07:35,989 - train.py[line:144] - INFO: VAL (101) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9755, 1: 0.9217, } mIoU 0.9486 |
+2021-02-24 15:08:29,481 - train.py[line:102] - INFO: TRAIN (102) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9407, 1: 0.8199, }  mIoU 0.8803 
+2021-02-24 15:08:41,324 - train.py[line:144] - INFO: VAL (102) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9743, 1: 0.9187, } mIoU 0.9465 |
+2021-02-24 15:09:36,013 - train.py[line:102] - INFO: TRAIN (103) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9391, 1: 0.8151, }  mIoU 0.8771 
+2021-02-24 15:09:47,771 - train.py[line:144] - INFO: VAL (103) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9767, 1: 0.9269, } mIoU 0.9518 |
+2021-02-24 15:10:44,580 - train.py[line:102] - INFO: TRAIN (104) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9389, 1: 0.8148, }  mIoU 0.8769 
+2021-02-24 15:10:55,198 - train.py[line:144] - INFO: VAL (104) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9736, 1: 0.9165, } mIoU 0.9451 |
+2021-02-24 15:11:48,603 - train.py[line:102] - INFO: TRAIN (105) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9404, 1: 0.8184, }  mIoU 0.8794 
+2021-02-24 15:12:00,001 - train.py[line:144] - INFO: VAL (105) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9725, 1: 0.9132, } mIoU 0.9428 |
+2021-02-24 15:12:53,481 - train.py[line:102] - INFO: TRAIN (106) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9412, 1: 0.8221, }  mIoU 0.8816 
+2021-02-24 15:13:04,721 - train.py[line:144] - INFO: VAL (106) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9689, 1: 0.8997, } mIoU 0.9343 |
+2021-02-24 15:13:58,602 - train.py[line:102] - INFO: TRAIN (107) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9396, 1: 0.8163, }  mIoU 0.8779 
+2021-02-24 15:14:10,175 - train.py[line:144] - INFO: VAL (107) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9746, 1: 0.9208, } mIoU 0.9477 |
+2021-02-24 15:15:05,002 - train.py[line:102] - INFO: TRAIN (108) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9418, 1: 0.8237, }  mIoU 0.8827 
+2021-02-24 15:15:17,579 - train.py[line:144] - INFO: VAL (108) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9759, 1: 0.9224, } mIoU 0.9492 |
+2021-02-24 15:16:14,475 - train.py[line:102] - INFO: TRAIN (109) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9361, 1: 0.8072, }  mIoU 0.8717 
+2021-02-24 15:16:25,868 - train.py[line:144] - INFO: VAL (109) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9737, 1: 0.9169, } mIoU 0.9453 |
+2021-02-24 15:17:18,801 - train.py[line:102] - INFO: TRAIN (110) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9410, 1: 0.8215, }  mIoU 0.8813 
+2021-02-24 15:17:30,255 - train.py[line:144] - INFO: VAL (110) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9726, 1: 0.9134, } mIoU 0.9430 |
+2021-02-24 15:18:24,509 - train.py[line:102] - INFO: TRAIN (111) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9404, 1: 0.8198, }  mIoU 0.8801 
+2021-02-24 15:18:36,270 - train.py[line:144] - INFO: VAL (111) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9703, 1: 0.9040, } mIoU 0.9372 |
+2021-02-24 15:19:28,802 - train.py[line:102] - INFO: TRAIN (112) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9421, 1: 0.8243, }  mIoU 0.8832 
+2021-02-24 15:19:39,551 - train.py[line:144] - INFO: VAL (112) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9743, 1: 0.9182, } mIoU 0.9462 |
+2021-02-24 15:20:32,281 - train.py[line:102] - INFO: TRAIN (113) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9406, 1: 0.8195, }  mIoU 0.8800 
+2021-02-24 15:20:44,129 - train.py[line:144] - INFO: VAL (113) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9686, 1: 0.8984, } mIoU 0.9335 |
+2021-02-24 15:21:35,803 - train.py[line:102] - INFO: TRAIN (114) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9393, 1: 0.8153, }  mIoU 0.8773 
+2021-02-24 15:21:47,745 - train.py[line:144] - INFO: VAL (114) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9720, 1: 0.9107, } mIoU 0.9414 |
+2021-02-24 15:22:41,580 - train.py[line:102] - INFO: TRAIN (115) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9414, 1: 0.8216, }  mIoU 0.8815 
+2021-02-24 15:22:54,191 - train.py[line:144] - INFO: VAL (115) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9717, 1: 0.9100, } mIoU 0.9408 |
+2021-02-24 15:23:49,180 - train.py[line:102] - INFO: TRAIN (116) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9434, 1: 0.8278, }  mIoU 0.8856 
+2021-02-24 15:24:00,706 - train.py[line:144] - INFO: VAL (116) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9721, 1: 0.9112, } mIoU 0.9417 |
+2021-02-24 15:24:55,381 - train.py[line:102] - INFO: TRAIN (117) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9435, 1: 0.8287, }  mIoU 0.8861 
+2021-02-24 15:25:07,725 - train.py[line:144] - INFO: VAL (117) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9683, 1: 0.8991, } mIoU 0.9337 |
+2021-02-24 15:26:01,413 - train.py[line:102] - INFO: TRAIN (118) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9419, 1: 0.8230, }  mIoU 0.8824 
+2021-02-24 15:26:13,441 - train.py[line:144] - INFO: VAL (118) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9710, 1: 0.9086, } mIoU 0.9398 |
+2021-02-24 15:27:09,397 - train.py[line:102] - INFO: TRAIN (119) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9455, 1: 0.8326, }  mIoU 0.8890 
+2021-02-24 15:27:21,927 - train.py[line:144] - INFO: VAL (119) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9754, 1: 0.9222, } mIoU 0.9488 |
+2021-02-24 15:28:16,486 - train.py[line:102] - INFO: TRAIN (120) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9401, 1: 0.8184, }  mIoU 0.8792 
+2021-02-24 15:28:28,287 - train.py[line:144] - INFO: VAL (120) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9766, 1: 0.9264, } mIoU 0.9515 |
+2021-02-24 15:29:24,904 - train.py[line:102] - INFO: TRAIN (121) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9390, 1: 0.8146, }  mIoU 0.8768 
+2021-02-24 15:29:37,116 - train.py[line:144] - INFO: VAL (121) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9705, 1: 0.9063, } mIoU 0.9384 |
+2021-02-24 15:30:31,982 - train.py[line:102] - INFO: TRAIN (122) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9427, 1: 0.8264, }  mIoU 0.8846 
+2021-02-24 15:30:42,532 - train.py[line:144] - INFO: VAL (122) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9696, 1: 0.8999, } mIoU 0.9347 |
+2021-02-24 15:31:34,780 - train.py[line:102] - INFO: TRAIN (123) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9454, 1: 0.8341, }  mIoU 0.8897 
+2021-02-24 15:31:45,649 - train.py[line:144] - INFO: VAL (123) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9687, 1: 0.9017, } mIoU 0.9352 |
+2021-02-24 15:32:40,903 - train.py[line:102] - INFO: TRAIN (124) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9441, 1: 0.8287, }  mIoU 0.8864 
+2021-02-24 15:32:52,814 - train.py[line:144] - INFO: VAL (124) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9761, 1: 0.9244, } mIoU 0.9502 |
+2021-02-24 15:33:46,782 - train.py[line:102] - INFO: TRAIN (125) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9451, 1: 0.8333, }  mIoU 0.8892 
+2021-02-24 15:33:59,725 - train.py[line:144] - INFO: VAL (125) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9680, 1: 0.9016, } mIoU 0.9348 |
+2021-02-24 15:34:52,494 - train.py[line:102] - INFO: TRAIN (126) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9469, 1: 0.8368, }  mIoU 0.8918 
+2021-02-24 15:35:02,883 - train.py[line:144] - INFO: VAL (126) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9752, 1: 0.9218, } mIoU 0.9485 |
+2021-02-24 15:35:57,122 - train.py[line:102] - INFO: TRAIN (127) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9450, 1: 0.8317, }  mIoU 0.8883 
+2021-02-24 15:36:09,958 - train.py[line:144] - INFO: VAL (127) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9750, 1: 0.9203, } mIoU 0.9476 |
+2021-02-24 15:37:04,613 - train.py[line:102] - INFO: TRAIN (128) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9427, 1: 0.8262, }  mIoU 0.8845 
+2021-02-24 15:37:16,347 - train.py[line:144] - INFO: VAL (128) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9745, 1: 0.9204, } mIoU 0.9474 |
+2021-02-24 15:38:10,603 - train.py[line:102] - INFO: TRAIN (129) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9419, 1: 0.8220, }  mIoU 0.8819 
+2021-02-24 15:38:23,032 - train.py[line:144] - INFO: VAL (129) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9683, 1: 0.9042, } mIoU 0.9363 |
+2021-02-24 15:39:20,081 - train.py[line:102] - INFO: TRAIN (130) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9399, 1: 0.8171, }  mIoU 0.8785 
+2021-02-24 15:39:32,353 - train.py[line:144] - INFO: VAL (130) | Loss: 0.013 | Acc 0.98 IOU {0: 0.9712, 1: 0.9088, } mIoU 0.9400 |
+2021-02-24 15:40:28,583 - train.py[line:102] - INFO: TRAIN (131) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9459, 1: 0.8351, }  mIoU 0.8905 
+2021-02-24 15:40:40,672 - train.py[line:144] - INFO: VAL (131) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9756, 1: 0.9234, } mIoU 0.9495 |
+2021-02-24 15:41:35,902 - train.py[line:102] - INFO: TRAIN (132) | Loss: 0.020 | Acc 0.95 IOU {0: 0.9402, 1: 0.8186, }  mIoU 0.8794 
+2021-02-24 15:41:48,325 - train.py[line:144] - INFO: VAL (132) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9706, 1: 0.9041, } mIoU 0.9373 |
+2021-02-24 15:42:43,282 - train.py[line:102] - INFO: TRAIN (133) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9421, 1: 0.8233, }  mIoU 0.8827 
+2021-02-24 15:42:56,900 - train.py[line:144] - INFO: VAL (133) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9711, 1: 0.9063, } mIoU 0.9387 |
+2021-02-24 15:43:52,517 - train.py[line:102] - INFO: TRAIN (134) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9451, 1: 0.8328, }  mIoU 0.8889 
+2021-02-24 15:44:04,502 - train.py[line:144] - INFO: VAL (134) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9688, 1: 0.9001, } mIoU 0.9344 |
+2021-02-24 15:45:00,702 - train.py[line:102] - INFO: TRAIN (135) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9449, 1: 0.8317, }  mIoU 0.8883 
+2021-02-24 15:45:11,421 - train.py[line:144] - INFO: VAL (135) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9682, 1: 0.9008, } mIoU 0.9345 |
+2021-02-24 15:46:05,281 - train.py[line:102] - INFO: TRAIN (136) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9460, 1: 0.8345, }  mIoU 0.8903 
+2021-02-24 15:46:16,059 - train.py[line:144] - INFO: VAL (136) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9707, 1: 0.9047, } mIoU 0.9377 |
+2021-02-24 15:47:10,903 - train.py[line:102] - INFO: TRAIN (137) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9456, 1: 0.8338, }  mIoU 0.8897 
+2021-02-24 15:47:23,110 - train.py[line:144] - INFO: VAL (137) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9702, 1: 0.9033, } mIoU 0.9367 |
+2021-02-24 15:48:16,223 - train.py[line:102] - INFO: TRAIN (138) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9479, 1: 0.8401, }  mIoU 0.8940 
+2021-02-24 15:48:28,756 - train.py[line:144] - INFO: VAL (138) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9728, 1: 0.9121, } mIoU 0.9424 |
+2021-02-24 15:49:22,901 - train.py[line:102] - INFO: TRAIN (139) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9471, 1: 0.8380, }  mIoU 0.8926 
+2021-02-24 15:49:34,041 - train.py[line:144] - INFO: VAL (139) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9711, 1: 0.9099, } mIoU 0.9405 |
+2021-02-24 15:50:28,280 - train.py[line:102] - INFO: TRAIN (140) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9469, 1: 0.8372, }  mIoU 0.8920 
+2021-02-24 15:50:39,527 - train.py[line:144] - INFO: VAL (140) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9762, 1: 0.9249, } mIoU 0.9506 |
+2021-02-24 15:51:34,081 - train.py[line:102] - INFO: TRAIN (141) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9450, 1: 0.8318, }  mIoU 0.8884 
+2021-02-24 15:51:47,165 - train.py[line:144] - INFO: VAL (141) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9709, 1: 0.9104, } mIoU 0.9406 |
+2021-02-24 15:52:41,287 - train.py[line:102] - INFO: TRAIN (142) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9481, 1: 0.8414, }  mIoU 0.8947 
+2021-02-24 15:52:53,270 - train.py[line:144] - INFO: VAL (142) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9713, 1: 0.9115, } mIoU 0.9414 |
+2021-02-24 15:53:46,602 - train.py[line:102] - INFO: TRAIN (143) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9465, 1: 0.8369, }  mIoU 0.8917 
+2021-02-24 15:53:59,050 - train.py[line:144] - INFO: VAL (143) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9610, 1: 0.8832, } mIoU 0.9221 |
+2021-02-24 15:54:51,612 - train.py[line:102] - INFO: TRAIN (144) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9391, 1: 0.8152, }  mIoU 0.8772 
+2021-02-24 15:55:04,608 - train.py[line:144] - INFO: VAL (144) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9636, 1: 0.8831, } mIoU 0.9233 |
+2021-02-24 15:55:59,535 - train.py[line:102] - INFO: TRAIN (145) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9428, 1: 0.8249, }  mIoU 0.8839 
+2021-02-24 15:56:10,108 - train.py[line:144] - INFO: VAL (145) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9740, 1: 0.9149, } mIoU 0.9445 |
+2021-02-24 15:57:04,881 - train.py[line:102] - INFO: TRAIN (146) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9416, 1: 0.8231, }  mIoU 0.8824 
+2021-02-24 15:57:18,151 - train.py[line:144] - INFO: VAL (146) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9738, 1: 0.9151, } mIoU 0.9444 |
+2021-02-24 15:58:14,794 - train.py[line:102] - INFO: TRAIN (147) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9421, 1: 0.8232, }  mIoU 0.8826 
+2021-02-24 15:58:26,090 - train.py[line:144] - INFO: VAL (147) | Loss: 0.012 | Acc 0.98 IOU {0: 0.9693, 1: 0.9027, } mIoU 0.9360 |
+2021-02-24 15:59:21,111 - train.py[line:102] - INFO: TRAIN (148) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9464, 1: 0.8359, }  mIoU 0.8912 
+2021-02-24 15:59:33,010 - train.py[line:144] - INFO: VAL (148) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9732, 1: 0.9139, } mIoU 0.9436 |
+2021-02-24 16:00:27,282 - train.py[line:102] - INFO: TRAIN (149) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9489, 1: 0.8433, }  mIoU 0.8961 
+2021-02-24 16:00:38,312 - train.py[line:144] - INFO: VAL (149) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9736, 1: 0.9149, } mIoU 0.9443 |
+2021-02-24 16:01:33,404 - train.py[line:102] - INFO: TRAIN (150) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9460, 1: 0.8344, }  mIoU 0.8902 
+2021-02-24 16:01:45,909 - train.py[line:144] - INFO: VAL (150) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9738, 1: 0.9154, } mIoU 0.9446 |
+2021-02-24 16:02:38,402 - train.py[line:102] - INFO: TRAIN (151) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9505, 1: 0.8487, }  mIoU 0.8996 
+2021-02-24 16:02:51,044 - train.py[line:144] - INFO: VAL (151) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9719, 1: 0.9082, } mIoU 0.9400 |
+2021-02-24 16:03:47,101 - train.py[line:102] - INFO: TRAIN (152) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9511, 1: 0.8495, }  mIoU 0.9003 
+2021-02-24 16:03:59,045 - train.py[line:144] - INFO: VAL (152) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9722, 1: 0.9111, } mIoU 0.9416 |
+2021-02-24 16:04:52,880 - train.py[line:102] - INFO: TRAIN (153) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9475, 1: 0.8394, }  mIoU 0.8934 
+2021-02-24 16:05:04,488 - train.py[line:144] - INFO: VAL (153) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9740, 1: 0.9167, } mIoU 0.9453 |
+2021-02-24 16:06:00,981 - train.py[line:102] - INFO: TRAIN (154) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9491, 1: 0.8434, }  mIoU 0.8962 
+2021-02-24 16:06:12,902 - train.py[line:144] - INFO: VAL (154) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9741, 1: 0.9170, } mIoU 0.9455 |
+2021-02-24 16:07:07,802 - train.py[line:102] - INFO: TRAIN (155) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9491, 1: 0.8438, }  mIoU 0.8964 
+2021-02-24 16:07:19,725 - train.py[line:144] - INFO: VAL (155) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9738, 1: 0.9176, } mIoU 0.9457 |
+2021-02-24 16:08:16,102 - train.py[line:102] - INFO: TRAIN (156) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9500, 1: 0.8465, }  mIoU 0.8983 
+2021-02-24 16:08:27,748 - train.py[line:144] - INFO: VAL (156) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9732, 1: 0.9155, } mIoU 0.9443 |
+2021-02-24 16:09:23,011 - train.py[line:102] - INFO: TRAIN (157) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9506, 1: 0.8478, }  mIoU 0.8992 
+2021-02-24 16:09:35,402 - train.py[line:144] - INFO: VAL (157) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9722, 1: 0.9135, } mIoU 0.9429 |
+2021-02-24 16:10:28,780 - train.py[line:102] - INFO: TRAIN (158) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9412, 1: 0.8211, }  mIoU 0.8811 
+2021-02-24 16:10:40,294 - train.py[line:144] - INFO: VAL (158) | Loss: 0.012 | Acc 0.97 IOU {0: 0.9677, 1: 0.8979, } mIoU 0.9328 |
+2021-02-24 16:11:34,880 - train.py[line:102] - INFO: TRAIN (159) | Loss: 0.019 | Acc 0.96 IOU {0: 0.9467, 1: 0.8380, }  mIoU 0.8923 
+2021-02-24 16:11:45,711 - train.py[line:144] - INFO: VAL (159) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9749, 1: 0.9216, } mIoU 0.9483 |
+2021-02-24 16:12:41,613 - train.py[line:102] - INFO: TRAIN (160) | Loss: 0.018 | Acc 0.96 IOU {0: 0.9456, 1: 0.8333, }  mIoU 0.8895 
+2021-02-24 16:12:54,091 - train.py[line:144] - INFO: VAL (160) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9767, 1: 0.9241, } mIoU 0.9504 |
+2021-02-24 16:13:45,802 - train.py[line:102] - INFO: TRAIN (161) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9482, 1: 0.8411, }  mIoU 0.8946 
+2021-02-24 16:13:58,103 - train.py[line:144] - INFO: VAL (161) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9726, 1: 0.9143, } mIoU 0.9434 |
+2021-02-24 16:14:51,292 - train.py[line:102] - INFO: TRAIN (162) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9493, 1: 0.8447, }  mIoU 0.8970 
+2021-02-24 16:15:03,019 - train.py[line:144] - INFO: VAL (162) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9732, 1: 0.9150, } mIoU 0.9441 |
+2021-02-24 16:15:58,202 - train.py[line:102] - INFO: TRAIN (163) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9478, 1: 0.8397, }  mIoU 0.8937 
+2021-02-24 16:16:11,169 - train.py[line:144] - INFO: VAL (163) | Loss: 0.013 | Acc 0.97 IOU {0: 0.9646, 1: 0.8844, } mIoU 0.9245 |
+2021-02-24 16:17:06,781 - train.py[line:102] - INFO: TRAIN (164) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9491, 1: 0.8445, }  mIoU 0.8968 
+2021-02-24 16:17:18,850 - train.py[line:144] - INFO: VAL (164) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9703, 1: 0.9050, } mIoU 0.9376 |
+2021-02-24 16:18:14,082 - train.py[line:102] - INFO: TRAIN (165) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9522, 1: 0.8524, }  mIoU 0.9023 
+2021-02-24 16:18:25,759 - train.py[line:144] - INFO: VAL (165) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9699, 1: 0.9056, } mIoU 0.9377 |
+2021-02-24 16:19:22,607 - train.py[line:102] - INFO: TRAIN (166) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9469, 1: 0.8363, }  mIoU 0.8916 
+2021-02-24 16:19:34,749 - train.py[line:144] - INFO: VAL (166) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9704, 1: 0.9073, } mIoU 0.9389 |
+2021-02-24 16:20:25,602 - train.py[line:102] - INFO: TRAIN (167) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9507, 1: 0.8484, }  mIoU 0.8995 
+2021-02-24 16:20:36,808 - train.py[line:144] - INFO: VAL (167) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9723, 1: 0.9121, } mIoU 0.9422 |
+2021-02-24 16:21:31,415 - train.py[line:102] - INFO: TRAIN (168) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9515, 1: 0.8506, }  mIoU 0.9011 
+2021-02-24 16:21:44,225 - train.py[line:144] - INFO: VAL (168) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9747, 1: 0.9201, } mIoU 0.9474 |
+2021-02-24 16:22:40,602 - train.py[line:102] - INFO: TRAIN (169) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9527, 1: 0.8538, }  mIoU 0.9033 
+2021-02-24 16:22:53,113 - train.py[line:144] - INFO: VAL (169) | Loss: 0.012 | Acc 0.97 IOU {0: 0.9664, 1: 0.8909, } mIoU 0.9287 |
+2021-02-24 16:23:48,210 - train.py[line:102] - INFO: TRAIN (170) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9503, 1: 0.8470, }  mIoU 0.8987 
+2021-02-24 16:24:00,322 - train.py[line:144] - INFO: VAL (170) | Loss: 0.013 | Acc 0.97 IOU {0: 0.9643, 1: 0.8852, } mIoU 0.9247 |
+2021-02-24 16:24:54,102 - train.py[line:102] - INFO: TRAIN (171) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9494, 1: 0.8439, }  mIoU 0.8967 
+2021-02-24 16:25:06,316 - train.py[line:144] - INFO: VAL (171) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9734, 1: 0.9146, } mIoU 0.9440 |
+2021-02-24 16:26:02,311 - train.py[line:102] - INFO: TRAIN (172) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9511, 1: 0.8495, }  mIoU 0.9003 
+2021-02-24 16:26:14,436 - train.py[line:144] - INFO: VAL (172) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9727, 1: 0.9142, } mIoU 0.9434 |
+2021-02-24 16:27:10,281 - train.py[line:102] - INFO: TRAIN (173) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9524, 1: 0.8532, }  mIoU 0.9028 
+2021-02-24 16:27:22,976 - train.py[line:144] - INFO: VAL (173) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9689, 1: 0.8998, } mIoU 0.9344 |
+2021-02-24 16:28:16,411 - train.py[line:102] - INFO: TRAIN (174) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9531, 1: 0.8551, }  mIoU 0.9041 
+2021-02-24 16:28:28,738 - train.py[line:144] - INFO: VAL (174) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9725, 1: 0.9128, } mIoU 0.9426 |
+2021-02-24 16:29:22,816 - train.py[line:102] - INFO: TRAIN (175) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9499, 1: 0.8462, }  mIoU 0.8980 
+2021-02-24 16:29:33,761 - train.py[line:144] - INFO: VAL (175) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9694, 1: 0.9058, } mIoU 0.9376 |
+2021-02-24 16:30:26,981 - train.py[line:102] - INFO: TRAIN (176) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9529, 1: 0.8544, }  mIoU 0.9036 
+2021-02-24 16:30:39,401 - train.py[line:144] - INFO: VAL (176) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9706, 1: 0.9052, } mIoU 0.9379 |
+2021-02-24 16:31:34,181 - train.py[line:102] - INFO: TRAIN (177) | Loss: 0.016 | Acc 0.96 IOU {0: 0.9495, 1: 0.8444, }  mIoU 0.8969 
+2021-02-24 16:31:45,930 - train.py[line:144] - INFO: VAL (177) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9714, 1: 0.9097, } mIoU 0.9406 |
+2021-02-24 16:32:39,121 - train.py[line:102] - INFO: TRAIN (178) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9523, 1: 0.8534, }  mIoU 0.9028 
+2021-02-24 16:32:50,911 - train.py[line:144] - INFO: VAL (178) | Loss: 0.013 | Acc 0.97 IOU {0: 0.9629, 1: 0.8874, } mIoU 0.9251 |
+2021-02-24 16:33:45,681 - train.py[line:102] - INFO: TRAIN (179) | Loss: 0.014 | Acc 0.96 IOU {0: 0.9551, 1: 0.8607, }  mIoU 0.9079 
+2021-02-24 16:33:59,079 - train.py[line:144] - INFO: VAL (179) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9695, 1: 0.9044, } mIoU 0.9370 |
+2021-02-24 16:34:54,531 - train.py[line:102] - INFO: TRAIN (180) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9545, 1: 0.8596, }  mIoU 0.9071 
+2021-02-24 16:35:05,646 - train.py[line:144] - INFO: VAL (180) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9683, 1: 0.8978, } mIoU 0.9330 |
+2021-02-24 16:35:57,402 - train.py[line:102] - INFO: TRAIN (181) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9524, 1: 0.8533, }  mIoU 0.9028 
+2021-02-24 16:36:09,524 - train.py[line:144] - INFO: VAL (181) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9690, 1: 0.9051, } mIoU 0.9371 |
+2021-02-24 16:37:03,115 - train.py[line:102] - INFO: TRAIN (182) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9519, 1: 0.8516, }  mIoU 0.9018 
+2021-02-24 16:37:15,759 - train.py[line:144] - INFO: VAL (182) | Loss: 0.009 | Acc 0.98 IOU {0: 0.9760, 1: 0.9235, } mIoU 0.9498 |
+2021-02-24 16:38:13,391 - train.py[line:102] - INFO: TRAIN (183) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9514, 1: 0.8505, }  mIoU 0.9009 
+2021-02-24 16:38:25,242 - train.py[line:144] - INFO: VAL (183) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9692, 1: 0.9037, } mIoU 0.9364 |
+2021-02-24 16:39:20,583 - train.py[line:102] - INFO: TRAIN (184) | Loss: 0.014 | Acc 0.96 IOU {0: 0.9539, 1: 0.8573, }  mIoU 0.9056 
+2021-02-24 16:39:32,606 - train.py[line:144] - INFO: VAL (184) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9725, 1: 0.9117, } mIoU 0.9421 |
+2021-02-24 16:40:28,290 - train.py[line:102] - INFO: TRAIN (185) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9532, 1: 0.8555, }  mIoU 0.9043 
+2021-02-24 16:40:40,109 - train.py[line:144] - INFO: VAL (185) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9691, 1: 0.8990, } mIoU 0.9341 |
+2021-02-24 16:41:35,803 - train.py[line:102] - INFO: TRAIN (186) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9547, 1: 0.8603, }  mIoU 0.9075 
+2021-02-24 16:41:48,188 - train.py[line:144] - INFO: VAL (186) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9598, 1: 0.8700, } mIoU 0.9149 |
+2021-02-24 16:42:45,181 - train.py[line:102] - INFO: TRAIN (187) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9536, 1: 0.8563, }  mIoU 0.9049 
+2021-02-24 16:42:57,980 - train.py[line:144] - INFO: VAL (187) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9725, 1: 0.9120, } mIoU 0.9422 |
+2021-02-24 16:43:52,202 - train.py[line:102] - INFO: TRAIN (188) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9540, 1: 0.8583, }  mIoU 0.9062 
+2021-02-24 16:44:03,878 - train.py[line:144] - INFO: VAL (188) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9702, 1: 0.9052, } mIoU 0.9377 |
+2021-02-24 16:44:59,981 - train.py[line:102] - INFO: TRAIN (189) | Loss: 0.014 | Acc 0.96 IOU {0: 0.9545, 1: 0.8594, }  mIoU 0.9069 
+2021-02-24 16:45:11,651 - train.py[line:144] - INFO: VAL (189) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9707, 1: 0.9048, } mIoU 0.9377 |
+2021-02-24 16:46:06,781 - train.py[line:102] - INFO: TRAIN (190) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9545, 1: 0.8587, }  mIoU 0.9066 
+2021-02-24 16:46:19,022 - train.py[line:144] - INFO: VAL (190) | Loss: 0.011 | Acc 0.97 IOU {0: 0.9672, 1: 0.8984, } mIoU 0.9328 |
+2021-02-24 16:47:12,610 - train.py[line:102] - INFO: TRAIN (191) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9520, 1: 0.8529, }  mIoU 0.9024 
+2021-02-24 16:47:24,356 - train.py[line:144] - INFO: VAL (191) | Loss: 0.012 | Acc 0.97 IOU {0: 0.9643, 1: 0.8894, } mIoU 0.9268 |
+2021-02-24 16:48:17,903 - train.py[line:102] - INFO: TRAIN (192) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9546, 1: 0.8597, }  mIoU 0.9071 
+2021-02-24 16:48:28,895 - train.py[line:144] - INFO: VAL (192) | Loss: 0.009 | Acc 0.98 IOU {0: 0.9745, 1: 0.9195, } mIoU 0.9470 |
+2021-02-24 16:49:24,980 - train.py[line:102] - INFO: TRAIN (193) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9539, 1: 0.8566, }  mIoU 0.9052 
+2021-02-24 16:49:36,203 - train.py[line:144] - INFO: VAL (193) | Loss: 0.010 | Acc 0.98 IOU {0: 0.9717, 1: 0.9105, } mIoU 0.9411 |
+2021-02-24 16:50:29,219 - train.py[line:102] - INFO: TRAIN (194) | Loss: 0.015 | Acc 0.96 IOU {0: 0.9536, 1: 0.8564, }  mIoU 0.9050 
+2021-02-24 16:50:42,043 - train.py[line:144] - INFO: VAL (194) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9689, 1: 0.9034, } mIoU 0.9362 |
+2021-02-24 16:51:37,102 - train.py[line:102] - INFO: TRAIN (195) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9565, 1: 0.8658, }  mIoU 0.9112 
+2021-02-24 16:51:48,888 - train.py[line:144] - INFO: VAL (195) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9697, 1: 0.9039, } mIoU 0.9368 |
+2021-02-24 16:52:43,982 - train.py[line:102] - INFO: TRAIN (196) | Loss: 0.014 | Acc 0.96 IOU {0: 0.9547, 1: 0.8596, }  mIoU 0.9071 
+2021-02-24 16:52:56,455 - train.py[line:144] - INFO: VAL (196) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9681, 1: 0.8974, } mIoU 0.9328 |
+2021-02-24 16:53:49,904 - train.py[line:102] - INFO: TRAIN (197) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9514, 1: 0.8504, }  mIoU 0.9009 
+2021-02-24 16:54:02,014 - train.py[line:144] - INFO: VAL (197) | Loss: 0.017 | Acc 0.96 IOU {0: 0.9483, 1: 0.8421, } mIoU 0.8952 |
+2021-02-24 16:54:57,681 - train.py[line:102] - INFO: TRAIN (198) | Loss: 0.021 | Acc 0.95 IOU {0: 0.9359, 1: 0.8065, }  mIoU 0.8712 
+2021-02-24 16:55:10,251 - train.py[line:144] - INFO: VAL (198) | Loss: 0.014 | Acc 0.97 IOU {0: 0.9602, 1: 0.8800, } mIoU 0.9201 |
+2021-02-24 16:56:04,703 - train.py[line:102] - INFO: TRAIN (199) | Loss: 0.019 | Acc 0.95 IOU {0: 0.9407, 1: 0.8217, }  mIoU 0.8812 
+2021-02-24 16:56:17,404 - train.py[line:144] - INFO: VAL (199) | Loss: 0.011 | Acc 0.98 IOU {0: 0.9761, 1: 0.9233, } mIoU 0.9497 |
