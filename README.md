@@ -13,7 +13,8 @@ CUDA10.1、python3.6、pytorch1.1.0、GPU:2080Ti*1
 在训练时会创建一个log日志保存在logs文件里面，记录训练集和测试集的IOU和Acc
 #### perdict
 1.如果没有进行过前面的train，在saved文件夹里面的download.txt下载训练好的模型  
-2.python3 predict.py
+2.python3 predict.py  
+预测结束后会生成一个predict文件夹，里面会存放模型输出的分割图，vis文件夹下面的为可视化版本（肺部灰度值为255），mask文件夹为原始输出（肺部灰度值为1）
 #### 调参
 基本参数如epoch，batch_size，lr，decay在train_config.json里面调参
 ### 替换数据
