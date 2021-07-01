@@ -60,6 +60,8 @@ def train(config):
     cur_acc = []
     # optimizer
     optimizer = torch.optim.Adam(model.parameters(), lr=config['lr'], betas=[config['momentum'], 0.999], weight_decay=config['weight_decay'])
+    
+    max_pixACC = 0.0
     for epoch in range(config['num_epoch']):
         epoch_start = time.time()
         # lr
@@ -104,7 +106,7 @@ def train(config):
 
         # val
         test_start = time.time()
-        max_pixACC = 0.0
+        
         model.eval()
         loss_sum = 0.0
         correct_sum = 0.0
